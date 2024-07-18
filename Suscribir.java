@@ -1,3 +1,5 @@
+
+
 public interface Suscribir{
-    public void update (String message);    
+    public void update (EventType eventType);    
 }
